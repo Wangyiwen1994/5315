@@ -16,7 +16,7 @@
             url: "empdata.xml", 
             dataType: "xml",
             success: function(xml) {  
-             $(xml).find('inventory').each(function(){  
+             $(xml).find('data').each(function(){  
               t.row.add( [
                 $(this).find('itemname').text(),
                 $(this).find('category').text(),
@@ -24,7 +24,7 @@
                 $(this).find('stock_date').text(),
                 $(this).find('store').text(),
                 $(this).find('itemID').text()
-              ] ).draw( false );
+              ] ).draw( true );
              });
             }
         });
