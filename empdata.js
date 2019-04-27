@@ -1,124 +1,124 @@
 {
   "data": [
     {
-      "name": "James Bond",
-      "designation": "Accountant",
-      "salary": "$170,750",
-      "joining_date": "2011/07/25",
-      "office": "Tokyo",
-      "extension": "8422"
+      "item name": "lipstick",
+      "category": "Makeup",
+      "price": "$45",
+      "stock_date": "2019/01/25",
+      "store": "Sweetie",
+      "item ID": "1022"
     },
     {
-      "name": "Brielle Williamson",
-      "designation": "Integration Specialist",
-      "salary": "$372,000",
-      "joining_date": "2012/12/02",
-      "office": "New York",
-      "extension": "4804"
+      "item name": "foundation",
+      "category": "makeup",
+      "price": "$75",
+      "stock_date": "2019/01/02",
+      "store": "Sweetie",
+      "item ID": "1004"
     },
     {
-      "name": "Ashton Cox",
-      "designation": "Junior Technical Author",
-      "salary": "$86,000",
-      "joining_date": "2009/01/12",
-      "office": "San Francisco",
-      "extension": "1562"
+      "item name": "denim skirt",
+      "category": "clothes",
+      "price": "$186",
+      "stock_date": "2019/01/12",
+      "store": "LeahFashionClub",
+      "item ID": "1562"
     },
     {
-      "name": "Airi Satou",
-      "designation": "Accountant",
-      "salary": "$162,700",
-      "joining_date": "2008/11/28",
-      "office": "Tokyo",
-      "extension": "5407"
+      "item name": "sneaker",
+      "category": "clothes",
+      "price": "$162",
+      "stock_date": "2019/04/11",
+      "store": "LeahFashionClub",
+      "item ID": "1119"
     },
     {
-      "name": "Caesar Vance",
-      "designation": "Pre-Sales Support",
-      "salary": "$106,450",
-      "joining_date": "2011/12/12",
-      "office": "New York",
-      "extension": "8330"
+      "item name": "makeup cleaner",
+      "category": "makeup",
+      "price": "$42",
+      "stock_date": "2019/02/12",
+      "store": "Sweetie",
+      "item ID": "1330"
     },
     {
-      "name": "Shad Decker",
-      "designation": "Regional Director",
-      "salary": "$183,000",
-      "joining_date": "2008/11/13",
-      "office": "Edinburgh",
-      "extension": "6373"
+      "item name": "hat",
+      "category": "clothes",
+      "price": "$84",
+      "stock_date": "2018/11/13",
+      "store": "LeahFashionClub",
+      "item ID": "1373"
     },
     {
-      "name": "Cedric Kelly",
-      "designation": "Senior Javascript Developer",
-      "salary": "$433,060",
-      "joining_date": "2012/03/29",
-      "office": "Edinburgh",
-      "extension": "6224"
+      "item name": "eye liner",
+      "category": "makeup",
+      "price": "$18",
+      "stock_date": "2018/12/29",
+      "store": "Sweetie",
+      "item ID": "1224"
     },
     {
-      "name": "Haley Kennedy",
-      "designation": "Senior Marketing Designer",
-      "salary": "$313,500",
-      "joining_date": "2012/12/18",
-      "office": "London",
-      "extension": "3597"
+      "item name": "socks",
+      "category": "clothes",
+      "price": "$10",
+      "stock_date": "2019/02/18",
+      "store": "LeahFashionClub",
+      "item ID": "1597"
     },
     {
-      "name": "Colleen Hurst",
-      "designation": "Javascript Developer",
-      "salary": "$205,500",
-      "joining_date": "2009/09/15",
-      "office": "San Francisco",
-      "extension": "2360"
+      "item name": "lipstick",
+      "category": "makeup",
+      "price": "$45",
+      "stock_date": "2019/03/15",
+      "store": "Sweetie",
+      "item ID": "1360"
     },
     {
-      "name": "Dai Rios",
-      "designation": "Personnel Lead",
-      "salary": "$217,500",
-      "joining_date": "2012/09/26",
-      "office": "Edinburgh",
-      "extension": "2290"
+      "item name": "jeans",
+      "category": "clothes",
+      "price": "$217",
+      "stock_date": "2018/09/26",
+      "store": "LeahFashionClub",
+      "item ID": "1290"
     },
     {
-      "name": "Herrod Chandler",
-      "designation": "Sales Assistant",
-      "salary": "$137,500",
-      "joining_date": "2012/08/06",
-      "office": "San Francisco",
-      "extension": "9608"
+      "item name": "blusher",
+      "category": "makeup",
+      "price": "$35",
+      "stock_date": "2019/02/06",
+      "store": "Sweetie",
+      "item ID": "1608"
     },
     {
-      "name": "Rhona Davidson",
-      "designation": "Integration Specialist",
-      "salary": "$327,900",
-      "joining_date": "2010/10/14",
-      "office": "Tokyo",
-      "extension": "6200"
+      "item name": "T-shirt",
+      "category": "clothes",
+      "price": "$109",
+      "stock_date": "2018/10/14",
+      "store": "LeahFashionClub",
+      "item ID": "1200"
     },
     {
-      "name": "Sonya Frost",
-      "designation": "Software Engineer",
-      "salary": "$103,600",
-      "joining_date": "2008/12/13",
-      "office": "Edinburgh",
-      "extension": "1667"
+      "item name": "foundation",
+      "category": "makeup",
+      "price": "$75",
+      "stock_date": "2018/12/13",
+      "store": "Sweetie",
+      "item ID": "0667"
     },
     {
-      "name": "Jena Gaines",
-      "designation": "Office Manager",
-      "salary": "$90,560",
-      "joining_date": "2008/12/19",
-      "office": "London",
-      "extension": "3814"
+      "item name": "denim skirt",
+      "category": "clothes",
+      "price": "$186",
+      "stock_date": "2018/12/19",
+      "store": "LeahFashionClub",
+      "extension": "0814"
     },
     {
-      "name": "Quinn Flynn",
-      "designation": "Support Lead",
-      "salary": "$342,000",
-      "joining_date": "2013/03/03",
-      "office": "Edinburgh",
-      "extension": "9497"
+      "item name": "essence",
+      "category": "makeup",
+      "price": "$342",
+      "stock_date": "2019/03/03",
+      "store": "Sweetie",
+      "item ID": "1497"
     }
   ]
 }
