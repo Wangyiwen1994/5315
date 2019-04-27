@@ -1,12 +1,12 @@
 {
   "data": [
     {
-      "item_name": "lipstick",
-      "category": "Makeup",
-      "price": "$45",
+      "Item_name": "lipstick",
+      "Category": "Makeup",
+      "Price": "$45",
       "stock_date": "2019/01/25",
-      "store": "Sweetie",
-      "item_ID": "1022"
+      "Store": "Sweetie",
+      "Item_ID": "1022"
     },
     {
       "item_name": "foundation",
